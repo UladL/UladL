@@ -7,7 +7,7 @@ Hi 👋 My name is Ulad Luhautsou
 Front-end engineer 
 ------------------
 
- Currently I am 13 years old, I've been learning to code since I was 8. I was born in Belarus, Minsk and moved to the US a few years ago. 
+ Currently I am 14 years old, I've been learning to code since I was 8. I was born in Belarus, Minsk and moved to the US a few years ago. 
 
  * 🌍  I'm based in United States, MN
  * ✉️  You can contact me at [vovan5070407@gmail.com](mailto:vovan5070407@gmail.com)
